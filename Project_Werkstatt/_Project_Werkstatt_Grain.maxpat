@@ -9032,6 +9032,7 @@
 				"box" : 				{
 					"allowdrag" : 0,
 					"buffername" : "Fläche_1",
+					"chanoffset" : 0,
 					"id" : "obj-34",
 					"maxclass" : "waveform~",
 					"numinlets" : 5,
@@ -9088,7 +9089,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-48",
